@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelmaksoud2000&theme=radical" alt="otmane el haddaji" />
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelmaksoud2000=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelmaksoud2000&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
   </div>
 <p></p>
 

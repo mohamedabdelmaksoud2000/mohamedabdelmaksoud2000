@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
+<h1 align="center">Hi 👋, I'm Mohamed abdelmaksoud</h1>
 <h3 align="center">A passionate Back-end developer</h3>
 
 <p></p><p></p>
@@ -20,11 +20,10 @@
 
 - 💬 Ask me about **PHP, javascript,Laravel, NodeJs, Pyhone, MangoDb , Flask, Vue.js, **
 
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mohamedabdelmaksoud2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedabdelmaksoud2000/mohamedabdelmaksoud2000/a135f348e2f4af7dc3ae9659a237b40ee2b7e1ce/img/devto.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-abd-elmaksoud-80477a1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedabdelmaksoud2000/mohamedabdelmaksoud2000/466e0ab2315f4cc924582ba3b6999bb69424ae56/img/linked-in-alt.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007054534250" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedabdelmaksoud2000/mohamedabdelmaksoud2000/8773d2437df28dbd67f7a8df13670e0d68773557/img/facebook.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
+- 📫 How to reach me **ma0846301@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

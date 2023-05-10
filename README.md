@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **System Design ,React js**
 
-- 💬 Ask me about **PHP, javascript,Laravel, NodeJs, Pyhone, MangoDb , Flask, Vue.js, **
+- 💬 Ask me about **PHP, javascript ,Laravel ,Design patterns ,react js ,system analysis ,NodeJs, Vue.js,**
 
 
 

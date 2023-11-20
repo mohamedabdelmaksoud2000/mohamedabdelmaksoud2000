@@ -12,7 +12,7 @@
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedabdelmaksoud2000&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="mohamed abd elmaksoud" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedabdelmaksoud2000&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="mohamed abd elmaksoud" />
 </div>
 
 
@@ -42,8 +42,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelmaksoud2000&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
   </div>
 <p></p>
-
-
-  <div align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd" alt="Jokes Card" />
-</div>
